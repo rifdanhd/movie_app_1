@@ -1,14 +1,24 @@
 # 🎬 Movie Streaming App
-
-Aplikasi streaming film sederhana yang dibuat dengan Flutter untuk tugas mata kuliah Mobile Programming.
-
 ---
-
 ## 👨‍💻 Developer
 
 **Nama:** Muhammad Rifdan Dermawan  
 **NIM:** 23552011274  
 **Kelas:** 23B Online
+---
+## 🎥 Demo Video
+
+[![Watch Demo](https://img.shields.io/badge/▶️_Tonton_Demo-Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1JeqC_dmrgFFh6zruiCV-tq9WQ-JwUQWO/view?usp=sharing)
+
+---
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="movie.png" alt="Movie App Screenshot" width="1200"/>
+</p>
+
+
 ---
 
 ## ✨ Fitur Aplikasi
@@ -19,22 +29,6 @@ Aplikasi streaming film sederhana yang dibuat dengan Flutter untuk tugas mata ku
 -  **Top Rated** - Film dengan rating tertinggi
 -  **Dark Theme** - Tampilan modern dengan tema gelap
 -  **Responsive** - Mendukung berbagai ukuran layar
-
----
-
-## 🎥 Demo Video
-
-[![Watch Demo](https://img.shields.io/badge/▶️_Tonton_Demo-Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1JeqC_dmrgFFh6zruiCV-tq9WQ-JwUQWO/view?usp=sharing)
-
----
-
-## 📸 Screenshots
-
-<p align="center">
-  <img src="movie.png" alt="Movie App Screenshot" width="600"/>
-</p>
-
-*Screenshot aplikasi Movie Streaming App*
 
 ---
 
@@ -65,6 +59,7 @@ dependencies:
   flutter:
     sdk: flutter
   carousel_slider: ^5.0.0
+  flutter_card_swiper: ^7.0.1
 ```
 
 ---
